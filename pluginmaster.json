@@ -9,9 +9,13 @@
     "ApplicableVersion": "any",
     "Tags": ["sample", "plugin", "goats"],
     "DalamudApiLevel": 1,
-    "DownloadLinkInstall": "https://github.com/SueburOcir/DalamudCustom/raw/master/DalamudSample.zip",
-    "DownloadLinkTesting": "https://github.com/SueburOcir/DalamudCustom/raw/master/DalamudSample.zip",
-    "DownloadLinkUpdate": "https://github.com/SueburOcir/DalamudCustom/raw/master/DalamudSample.zip"
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 4435,
+    "LastUpdate": "1607420600",
+    "DownloadLinkInstall": "https://https://goatcorp.github.io/DalamudPlugins/DalamudSample.zip",
+    "DownloadLinkTesting": "https://https://goatcorp.github.io/DalamudPlugins/DalamudSample.zip",
+    "DownloadLinkUpdate": "https://https://goatcorp.github.io/DalamudPlugins/DalamudSample.zip"
   },
   {
     "Author": "Haplo064",
